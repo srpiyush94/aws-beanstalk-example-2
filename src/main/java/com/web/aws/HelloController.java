@@ -1,4 +1,4 @@
-package com.techprimers.aws;
+package com.web.aws;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "Hello TechPrimers";
+        return "<h2>Hello Welcome SpringBoot Code Pipe Line!!</h2>";
     }
 }
