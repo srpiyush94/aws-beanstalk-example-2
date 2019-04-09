@@ -1,4 +1,4 @@
-package com.test.aws;
+/*package com.test.aws;
 
 
 import org.junit.Test;
@@ -15,3 +15,4 @@ public class AwsElasticBeanstalkExample2ApplicationTests {
 	}
 
 }
+*/
