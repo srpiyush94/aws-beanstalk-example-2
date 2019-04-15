@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello() {
-        return "<h2>Hello Welcome SpringBoot Code Pipe Line!!</h2>";
+        return "<h2>Made changes to existing one!";
     }
 }
